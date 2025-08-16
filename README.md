@@ -1,5 +1,5 @@
 
-````markdown
+
 # MTAN-ADMET: A Multi-Task Adaptive Neural Network for Efficient and Accurate Prediction of ADMET Properties  
 
 ![TOC](TOC_admet.pdf)  
@@ -136,7 +136,3 @@ MTAN-ADMET: A Multi-Task Adaptive Neural Network for Efficient and Accurate Pred
 ChemRxiv. 2025. doi:10.26434/chemrxiv-2025-zhrsk
 ```
 
-```
-
-Would you like me to also add a **Quick Start Example** section with a minimal Python snippet (load embeddings → train model → evaluate) so users can try it without opening the notebooks first?
-```
