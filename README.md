@@ -1,4 +1,3 @@
-Sure! Here’s the full **Markdown content** of your `README.md` that you can copy and paste directly:
 
 ````markdown
 # MTAN-ADMET: A Multi-Task Adaptive Neural Network for Efficient and Accurate Prediction of ADMET Properties  
