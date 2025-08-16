@@ -2,7 +2,7 @@
 
 # MTAN-ADMET: A Multi-Task Adaptive Neural Network for Efficient and Accurate Prediction of ADMET Properties  
 
-![TOC](TOC_admet.pdf)  
+![TOC](TOC_admet.png)  
 
 ## 📖 Overview  
 **MTAN-ADMET** is a deep learning framework for efficient and accurate prediction of ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) properties.  
