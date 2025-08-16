@@ -112,17 +112,32 @@ jupyter notebook notebooks/analysis/Data_analysis.ipynb
 
 ## 📊 ADMET Properties Included
 
-The framework predicts multiple ADMET endpoints, including:
+The MTAN-ADMET framework predicts the following properties:  
 
-* P-gp inhibitor / substrate
-* LogD
-* CaCO₂ permeability
-* Clearance (CL)
-* ESOL solubility
-* Cytochrome P450 interactions (CYP450)
-* Half-life
-* Human Intestinal Absorption (HIA)
-* Oral Bioavailability (OB)
+- HIA  
+- OB  
+- P-gp inhibitor  
+- P-gp substrates  
+- BBB  
+- Respiratory toxicity  
+- Hepatotoxicity  
+- Half-life  
+- CL (Clearance)  
+- Cardiotoxicity (1 μM)  
+- Cardiotoxicity (5 μM)  
+- Cardiotoxicity (10 μM)  
+- Cardiotoxicity (30 μM)  
+- CYP1A2  
+- CYP2C19  
+- CYP2C9  
+- CYP2D6  
+- CYP3A4  
+- Acute oral toxicity (LD50)  
+- IGC50  
+- ESOL (solubility)  
+- logD  
+- Caco-2 permeability  
+- PPB (Plasma Protein Binding) 
 
 ---
 
