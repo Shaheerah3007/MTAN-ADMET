@@ -1,4 +1,4 @@
-name: serb
+name: mtan_admet
 channels:
   - pytorch
   - nvidia
